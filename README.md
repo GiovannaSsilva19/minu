@@ -18,4 +18,7 @@ $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 # Instale as dependências
 $ npm install
-$ Vá atá a package.json e instale body-parser, express,nodemon,mysql.
+$ Vá até  a package.json e instale body-parser, express,nodemon,mysql.
+
+##Ao abrir o arquivo, veja que na pasta  "mySQL, seguida da pasta scripts, você irá poder criar o schema do banco de dados.
+## Deixei uma carga_teste para que você possa testar os dados.
