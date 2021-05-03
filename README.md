@@ -37,7 +37,7 @@ As seguintes ferramentas/tecnologias foram usadas na construção do projeto:
 
 - [Wampserver](https://www.wampserver.com/en/)
 
-- [MySQL Workbench](https://www.wampserver.com/en/)
+- [MySQL Workbench](https://www.mysql.com/)
 
 ### O projeto foi desenvolvido utilizando como banco de dados o MySQL versão 2.18.1 No repositório, você irá encontrar uma pasta com os scripts sql para criação do schema e tabela, bem como scripts para iniciar o seu banco de dados, no qual poderão ser utilizados como massa de teste do CRUD desenvolvido.
 
