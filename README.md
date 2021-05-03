@@ -14,8 +14,15 @@
 $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 # Instale as dependências
-### npm install
-### Vá até  a package.json e instale body-parser, express,nodemon,mysql.
+
+###Valide se todas as dependências listadas no package.json estão instaladas na sua máquina, de acordo com a versão:
+
+Use os seguintes comandos
+
+NPM install
+NPM install —save express
+NPM install —save nodemon 
+NPM install —save MySQL
 
 ### 🛠 O que foi usado:
 
