@@ -1,0 +1,10 @@
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('98619161059', 'Carla Moura','carlamoura@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('37434882050', 'Rodrigo Cesar','cesarro@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('93041954036', 'Thalis Afonso','thaalis@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('68567147000', 'Cleide Silva','jucicle@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('06381845090', 'Luciene Alves','lulu@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('87774131051', 'Diego Silva','diego@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('71358821054', 'Marcelo de Oliveira','marcelo@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('51543654029', 'Ana Luiza','al@hotmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('34561198016', 'Willame Souza','willame.wil@gmail.');
+INSERT INTO `minutrade`.`clientes` (`id_cpf`,`nome`,`email`) VALUES ('09129995000', 'Hugo Silva','hugo@gmail.');
