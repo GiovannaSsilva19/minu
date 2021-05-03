@@ -17,12 +17,12 @@ $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 ###Valide se todas as dependências listadas no package.json estão instaladas na sua máquina, de acordo com a versão:
 
-Use os seguintes comandos
+Use os seguintes comandos:
 
 [NPM install]
-NPM install —save express
-NPM install —save nodemon 
-NPM install —save MySQL
+*npm install —save express
+*npm install —save nodemon 
+*npm install —save MySQL
 
 ### 🛠 O que foi usado:
 
