@@ -20,9 +20,11 @@ $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 Use os seguintes comandos:
 
 [NPM install]
-*npm install —save express
-*npm install —save nodemon 
-*npm install —save MySQL
+npm install —save express, 
+
+npm install —save nodemon,
+
+npm install —save MySQL
 
 ### 🛠 O que foi usado:
 
