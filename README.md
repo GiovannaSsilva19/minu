@@ -5,6 +5,9 @@
 </h1>
 <p align="center">🚀 Codigo fonte com teste da Minu: Desenvolvimento de uma API REST</p>
 
+
+### Para instalar e executar a aplicação no seu localhost, siga as instruções abaixo:
+
 ### 🎲 Rodando(servidor)
 
 # Clone este repositório
