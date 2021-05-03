@@ -13,22 +13,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando(servidor)
 
-```bash
 # Clone este repositório
 $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 # Instale as dependências
 $ npm install
 $ Vá atá a package.json e instale body-parser, express,nodemon,mysql.
-
-### 🛠 O que foi usado:
-
-As seguintes ferramentas/tecnologias foram usadas na construção do projeto:
-
-- [Node.js](https://nodejs.org/en/)
-
-- [JavaScript](https://www.javascript.com/)
-
-- [Wampserver](https://www.wampserver.com/en/)
-
-- [MySQL Workbench](https://www.wampserver.com/en/)
