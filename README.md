@@ -31,3 +31,6 @@ As seguintes ferramentas/tecnologias foram usadas na construção do projeto:
 - [Wampserver](https://www.wampserver.com/en/)
 
 - [MySQL Workbench](https://www.wampserver.com/en/)
+
+$ Ao abrir o arquivo, veja que na pasta mySQL, seguida da pasta scrips você irá poder criar o schema.
+$ Deixei tambem a carga_teste para que você possa ultilizar.
