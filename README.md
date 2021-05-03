@@ -17,8 +17,8 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 # Instale as dependências
-$ npm install
-$ Vá até  a package.json e instale body-parser, express,nodemon,mysql.
+ npm install
+ Vá até  a package.json e instale body-parser, express,nodemon,mysql.
 
 ### 🛠 O que foi usado:
 
