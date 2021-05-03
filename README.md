@@ -5,12 +5,6 @@
 </h1>
 <p align="center">🚀 Codigo fonte com teste da Minu: Desenvolvimento de uma API REST</p>
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [mysql](https://www.mysql.com/products/workbench/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 ### 🎲 Rodando(servidor)
 
 # Clone este repositório
