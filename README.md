@@ -19,8 +19,8 @@ $ git clone <https://github.com/GiovannaSsilva19/minu.git>
 
 Use os seguintes comandos
 
--NPM install
--NPM install —save express
+$NPM install
+$NPM install —save express
 -NPM install —save nodemon 
 -NPM install —save MySQL
 
